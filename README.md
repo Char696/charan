@@ -6,7 +6,7 @@ I'm a passionate developer who loves creating innovative solutions to real-world
 ## Projects
 ### Project 1: Awesome Web App
 - **Description:** Developed a feature-rich web application using HTML, CSS, and JavaScript.
-- **Link:** [Awesome Web App](https://www.example.com/project1)
+- **Link:** [Awesome Web App](https://github.com/Char696/charan/blob/main/EDA%20-%20In%20Detail%20with%20examples.html)
   
 ### Project 2: Data Visualization Dashboard
 - **Description:** Built a data visualization dashboard using D3.js to represent complex data sets in an intuitive manner.
